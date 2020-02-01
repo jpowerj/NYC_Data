@@ -1,0 +1,6 @@
+digraph {
+	rankdir=LR
+	Dataset
+	Hypothesis
+	Dataset -> Hypothesis [label="Exploratory Data Analysis   "]
+}

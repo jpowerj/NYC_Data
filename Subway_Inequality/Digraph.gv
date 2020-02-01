@@ -1,0 +1,6 @@
+digraph {
+	rankdir=RL
+	Dataset
+	Hypothesis
+	Hypothesis -> Dataset [label="Confirmatory Data Analysis"]
+}
