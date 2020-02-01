@@ -938,3 +938,9 @@ See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stabl
 2020-02-01 16:40:43,847 [13912] DEBUG    matplotlib.font_manager:1271: [JupyterRequire] findfont: score(<Font 'Bodoni MT' (BOD_BLAI.TTF) italic normal black normal>) = 11.525
 2020-02-01 16:40:43,847 [13912] DEBUG    matplotlib.font_manager:1271: [JupyterRequire] findfont: score(<Font 'Courier New' (cour.ttf) normal normal 400 normal>) = 10.05
 2020-02-01 16:40:43,847 [13912] DEBUG    matplotlib.font_manager:1294: [JupyterRequire] findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\jj\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+2020-02-01 16:50:35,740 [13912] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2020-02-01 16:50:35,740 [13912] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2020-02-01 16:50:35,741 [13912] INFO     root:247: [JupyterRequire] Initializing comms.
+2020-02-01 16:50:35,745 [13912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2020-02-01 16:50:35,746 [13912] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2020-02-01 16:50:35,746 [13912] DEBUG    root:97: [JupyterRequire] Registering comm targets.
